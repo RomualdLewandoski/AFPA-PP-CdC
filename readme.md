@@ -53,17 +53,17 @@ jusqu'aux activitées / hotels ainsi qu'une partie de gestion de budget
         - Les horraires et moyens de contact des différentes activitées / hotels en cas de soucis
         
 # 3 : Technos utilisées
-  
-    L'application WEB serra séparée en 2 parties distinctes 
-      - Le front END , qui est l'interface utilisateur
-      - Le back END , qui serra une api GET/POST effectuant des retours JSON
-      - Le backEnd se ferra en utilisant le framework symfony   
-      - Le front End se ferra en utilisant un framework JavaScript (ou nodeJS) a savoir ReactJS ou vue.JS  
-      - Le système de mail passera par une fonction d'envoie SMTP (avec SSL) 
-      - L'authentification se basera sur JWT en cookie AINSI q'une possibilitée d'activer un OTP (utilisable avec GoogleAuthentificator)
-      - Le processus d'inscription comportera un captchat (ReCaptcha by Google)
-      - Le css serra développé a partir du framework Bootstrap 4
-      - La génération PDF serra développé a partir du module (**TROUVER UN ODULE POUR SF PERMETTANT LA GENERATION DE PDF**)
+ 
+   L'application WEB serra séparée en 2 parties distinctes 
+    - Le front END , qui est l'interface utilisateur
+    - Le back END , qui serra une api GET/POST effectuant des retours JSON
+    - Le backEnd se ferra en utilisant le framework symfony   
+    - Le front End se ferra en utilisant un framework JavaScript (ou nodeJS) a savoir ReactJS ou vue.JS  
+    - Le système de mail passera par une fonction d'envoie SMTP (avec SSL) 
+    - L'authentification se basera sur JWT en cookie AINSI q'une possibilitée d'activer un OTP (utilisable avec GoogleAuthentificator)
+    - Le processus d'inscription comportera un captchat (ReCaptcha by Google)
+    - Le css serra développé a partir du framework Bootstrap 4
+    - La génération PDF serra développé a partir du module (**TROUVER UN ODULE POUR SF PERMETTANT LA GENERATION DE PDF**)
       
 
 # 4 : Problèmes rencontrés
