@@ -52,8 +52,7 @@ jusqu'aux activitées / hotels ainsi qu'une partie de gestion de budget
         - Des informations utiles sur le pays ou ce déroule le voyage ex numéro d'urgence etc ... 
         - Les horraires et moyens de contact des différentes activitées / hotels en cas de soucis
         
-
-#  3 : Technos utilisées
+# 3 : Technos utilisées
   
     L'application WEB serra séparée en 2 parties distinctes 
       - Le front END , qui est l'interface utilisateur
