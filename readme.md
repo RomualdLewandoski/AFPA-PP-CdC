@@ -54,7 +54,7 @@ jusqu'aux activitées / hotels ainsi qu'une partie de gestion de budget
         
 # 3 : Technos utilisées
  
-   L'application WEB serra séparée en 2 parties distinctes 
+    L'application WEB serra séparée en 2 parties distinctes 
       - Le front END , qui est l'interface utilisateur
       - Le back END , qui serra une api GET/POST effectuant des retours JSON
       - Le backEnd se ferra en utilisant le framework symfony   
